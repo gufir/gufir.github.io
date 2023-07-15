@@ -189,6 +189,12 @@
 
   });
 
+  /** Certificate lightbox */
+
+  const certificateLightbox = GLightbox({
+    selector: '.certificate-lightbox'
+  });
+
   /**
    * Initiate portfolio lightbox 
    */
